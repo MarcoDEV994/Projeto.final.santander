@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-ProjetoFinal1/Pods-ProjetoFinal1-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PINCache/PINCache.framework
+${BUILT_PRODUCTS_DIR}/PINOperation/PINOperation.framework
+${BUILT_PRODUCTS_DIR}/PINRemoteImage/PINRemoteImage.framework
